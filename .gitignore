@@ -1,0 +1,8 @@
+# Terraform files
+.terraform*
+# This is a terraform playground, so always create infra from scratch
+terraform.tfstate*
+
+# Build files
+lambda/lambda.zip
+lambda/package
